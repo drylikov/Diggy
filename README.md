@@ -8,6 +8,7 @@ Diggy can extract endpoints/URLs from apk files. It saves the result into a txt 
 #### Dependencies
 - apktool
 
+
 #### Usage
 ```
 ./diggy.sh /path/to/apk/file.apk
