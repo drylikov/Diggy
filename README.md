@@ -1,5 +1,7 @@
 
 # Diggy
+
+
 Diggy can extract endpoints/URLs from apk files. It saves the result into a txt file for further processing.
 
 
