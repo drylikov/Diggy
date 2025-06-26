@@ -19,6 +19,8 @@ Diggy can extract endpoints/URLs from apk files. It saves the result into a txt 
 You can also install it for easier access by running `install.sh`\
 After that, you will be able to run **Diggy** as follows:
 ```
+
+
 diggy /path/to/apk/file.apk
 
 
